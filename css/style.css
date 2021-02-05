@@ -766,7 +766,8 @@ transform: rotate(45deg);
 }
 
 .cont{
-    color: #ffff;
+    color: #989898;
+    color: 989898;
 }
 .cont h3{}
 .cont span{}
@@ -785,7 +786,8 @@ transform: rotate(45deg);
 }
 
 .quc{
-  color: #ffff; 
+  color: #989898;
+  color: 989898;
 }
 
 .quc h3{
@@ -799,12 +801,14 @@ transform: rotate(45deg);
     margin-bottom: 20px;
 }
 
-.quc ul{}
+.quc ul{
+    color: #989898;
+}
 
 .quc ul li{}
 .quc ul li a{
     text-decoration: none;
-    color: aliceblue;
+    color: #989898;
     line-height: 30px;
 }
 .form-control-3{
